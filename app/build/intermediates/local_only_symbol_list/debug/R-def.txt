@@ -1,0 +1,32 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable kitilit
+id btnsave
+id btnview
+id mEdtEmail
+id mEdtName
+id mEdtidNumber
+id mListUsers
+id mTvEmail
+id mTvIdNumber
+id mTvName
+id mbtndelete
+id mbtnupdate
+layout activity_main
+layout activity_users
+layout user_layout
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.AfternoonfirebasedatabaseApp
+xml backup_rules
+xml data_extraction_rules
